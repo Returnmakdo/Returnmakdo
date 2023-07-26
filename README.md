@@ -35,10 +35,6 @@
 <br/>
 
 ## :pencil2: Study log
-<div align=center>
-
-  [![Returnmakdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Returnmakdo&show_icons=true&theme=radical)](https://github.com/Returnmakdo/github-readme-stats)
-</div>
 <br/>
 <div align="center">
     
