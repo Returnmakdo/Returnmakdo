@@ -37,5 +37,5 @@
 ## :pencil2: Study log
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cldud970&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=returnmakdo&layout=compact">
 </div>
