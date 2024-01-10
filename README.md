@@ -39,7 +39,7 @@
 <div align="center">
   
   <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Returnmakdo)](https://github.com/anuraghazra/github-readme-stats) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Returnmakdo&show_icons=true&theme=dracula"/>
+  <img style="margin-bottom: 20px;" src="https://github-readme-stats.vercel.app/api?username=Returnmakdo&show_icons=true&theme=dracula"/>
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ahn970)](https://github.com/eungyeole/velog-readme-stats)
 </div>
