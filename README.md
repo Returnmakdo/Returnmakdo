@@ -37,6 +37,6 @@
 ## :pencil2: Study log
 <br/>
 <div align="center">
-  [![Returnmakdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Returnmakdo)](https://github.com/Returnmakdo/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Returnmakdo)](https://github.com/anuraghazra/github-readme-stats)
   <img src="https://github-readme-stats.vercel.app/api?username=Returnmakdo&show_icons=true&theme=dracula"/>
 </div>
