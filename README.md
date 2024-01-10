@@ -37,7 +37,5 @@
 ## :pencil2: Study log
 <br/>
 <div align="center">
-    
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ahn970&color=dark)](https://github.com/ahn970/velog-readme-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Returnmakdo&layout=compact">
 </div>
