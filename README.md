@@ -18,7 +18,7 @@
 <div align="center">
     <img src="https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
     <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
-    <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=white">
+    <img src="https://img.shields.io/badge/TanstackQuery-FF4154?style=for-the-badge&logo=TanstackQuery&logoColor=white">
     <img src="https://img.shields.io/badge/ReduxToolkit-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
     <img src="https://img.shields.io/badge/Recoil-7E7E7E?style=for-the-badge&logo=Recoil&logoColor=white">
     <img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
